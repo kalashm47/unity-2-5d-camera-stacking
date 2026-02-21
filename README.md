@@ -29,13 +29,6 @@ The solution uses:
 ## Screenshot
 
 <img width="627" height="433" alt="image" src="https://github.com/user-attachments/assets/1d5f3a25-7e1d-4166-9be1-48e2bd80094a" />
-
-
-You can upload images to the repository and place them inside a `Screenshots` folder, then link them like this:
-
-![Gameplay](Screenshots/screenshot1.png)
-![Camera Setup](Screenshots/screenshot2.png)
-
 ---
 
 ## Features
